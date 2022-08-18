@@ -7,7 +7,7 @@
 
 ## 1º Ano - 2º Semestre:
 #### Programação Imperativa - [Exercícios](https://github.com/Nuno23C/PI-C)
-#### Laboratórios de Algoritmia I - [Projeto](https://github.com/SimaoQuintela/CCPL2G01) 
+#### Laboratórios de Algoritmia I - [Projeto](https://github.com/Nuno23C/CCPL2G01) 
 
 ## 2º Ano - 1º Semestre:
 #### Algoritmos e Complexidade - [Exercícios](https://github.com/Nuno23C/AeC)
